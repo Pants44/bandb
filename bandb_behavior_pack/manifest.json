@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Beasts And Blazes behavior pack",
+        "name": "Beasts and Blazes Behavior Pack",
+        "uuid": "1d3257ca-1663-4556-ade8-5d0e23f5c7df",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Beasts And Blazes behavior pack",
+            "type": "data",
+            "uuid": "45c38059-996b-42d5-adb8-453de0e63638",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "50763837-9c66-420b-ab35-1211597cade6",
+            "version": [0, 0, 1]
+        }
+    ]
+}

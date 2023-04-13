@@ -1,0 +1,15 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "bandb:emerald_sword",
+            "category": "Items"
+        },
+        "components": {
+            "minecraft:hand_equipped": true,
+            "minecraft:icon": {
+                "texture": "bandb.emerald_sword"
+            }
+        }
+    }
+}

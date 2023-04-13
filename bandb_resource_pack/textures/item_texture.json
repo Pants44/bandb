@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "Beasts and Blazes",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "bandb.emerald_sword": {
+            "textures": "textures/items/emerald_sword"
+        }
+    }
+}

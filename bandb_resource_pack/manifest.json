@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A mod to bend the game to our will",
+        "name": "Beasts and Blazes",
+        "uuid": "50763837-9c66-420b-ab35-1211597cade6",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Beasts and Blazes Add-On",
+            "type": "resources",
+            "uuid": "bf4ab171-86b4-4d9d-9659-e92b2fbf1091",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
