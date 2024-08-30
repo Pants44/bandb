@@ -1,15 +1,16 @@
 {
-    "format_version": "1.20.50",
+    "format_version": "1.21.10",
     "minecraft:item": {
         "description": {
             "identifier": "bandb:emerald_sword",
-            "category": "Items"
+            "menu_category": {
+                "category": "equipment",
+                "group": "itemGroup.name.sword"
+            }
         },
         "components": {
             "minecraft:hand_equipped": true,
-            "minecraft:icon": {
-                "texture": "bandb.emerald_sword"
-            },
+            "minecraft:icon":"bandb.emerald_sword",
             "minecraft:durability":{
                 "damage_chance": {
                     "min": 1,
