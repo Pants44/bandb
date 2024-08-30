@@ -4,6 +4,18 @@
     "texture_data": {
         "bandb.emerald_sword": {
             "textures": "textures/items/emerald_sword"
+        },
+        "bandb.copper_helmet": {
+            "textures": "textures/items/copper_helmet"
+        },
+        "bandb.copper_chestplate": {
+            "textures": "textures/items/copper_chestplate"
+        },
+        "bandb.copper_leggings": {
+            "textures": "textures/items/copper_leggings"
+        },
+        "bandb.copper_boots": {
+            "textures": "textures/items/copper_boots"
         }
     }
 }
