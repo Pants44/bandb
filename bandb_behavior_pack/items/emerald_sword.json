@@ -22,13 +22,13 @@
                 "repair_items": [
                     {
                         "items": ["minecraft:emerald"],
-                        "repair_amount": "150"
+                        "repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
                     }
                 ]
             },
             "minecraft:enchantable":{
                 "slot": "sword",
-                "value": 5
+                "value": 10
             },
             "minecraft:damage": {
                 "value": 6
