@@ -1,0 +1,20 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": { "identifier": "bandb:copper_leggings" },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "CCC",
+            "C C",
+            "C C"
+        ],
+        "key": {
+            "C": {"item": "minecraft:copper_ingot"}
+        },
+        "unlock": [ {"item": "minecraft:copper_ingot", "data": 1}],
+        "result": {
+            "item": "bandb:copper_leggings",
+            "count": 1
+        }
+    }
+}
